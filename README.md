@@ -1,7 +1,8 @@
 # 🍷 WINE DINING | 와인 입문자들을 위한 개인화된 와인 추천 서비스
 
  > 와인 입문자들에게 개인 취향에 맞는 와인을 추천하고, 상세 정보와 어울리는 음식을 제공하여 맞춤형 와인 경험을 선사하는 서비스 **WINE DINING(와인 다이닝)** 입니다.
-> 🏆 SSAFY 12기 특화 프로젝트 우수상 🏆
+
+## 🏆 SSAFY 12기 특화 프로젝트 우수상 🏆
 
 <img src="./assets/wine_dining_main_1.png" width="100%">
 <img src="./assets/wine_dining_main_2.png" width="100%">
