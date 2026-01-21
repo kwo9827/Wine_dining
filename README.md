@@ -31,23 +31,19 @@
 <table>
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/[github-id]">
-            <img src="https://i.namu.wiki/i/GwX8Wk7-rK9fDayTLJybEg9uVLS3OqP0BywzeHjDYfOqSfqE26GOXzl5CSIjYpXcbMsW3qkuZVgdV54YTsxynjINquNOAZhBT3596-myDT8zFkLijQgU8lpnSDwNfG-r-IhSgSaqw0br4C6Vz14rNA.webp" width="140px" /> <br><br> 👑 정다인 <br>(Team Leader, Front-End) </a> <br></td>
+            <img src="https://i.namu.wiki/i/GwX8Wk7-rK9fDayTLJybEg9uVLS3OqP0BywzeHjDYfOqSfqE26GOXzl5CSIjYpXcbMsW3qkuZVgdV54YTsxynjINquNOAZhBT3596-myDT8zFkLijQgU8lpnSDwNfG-r-IhSgSaqw0br4C6Vz14rNA.webp" width="140px" /> <br><br> 👑 정다인 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/kwo9827">
             <img src="https://i.namu.wiki/i/ifkzEGZR51bAJbRIvHEPo_WTv8LXzabItIijFjrdwVwYjb6Bexu-5nT5KvqU5mzrMOSnv7CsnHZkr8L24PB2lg.webp" width="140px" /> <br><br> 👶🏻 오승열 <br>(Front-End Leader) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/[github-id]">
             <img src="https://i.namu.wiki/i/waw6CdkdFsocIT-LB9T4DqEhht9AtKx9ypKZK_uVJFwDmknxzMRf1HjXtjwzsJnicTXyHtD-9Qz2VwIyk10WDzDbpS9SpP_ZShRfnlHfSXQBNYs_qwvgtOWoC11gW0w3QIHQlLWVkVf448J54WwLiw.webp" width="140px" /> <br><br> 👶🏻 류현 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/[github-id]">
-            <img src="https://i.namu.wiki/i/Ee89R5AFVQgi80iw3W4QAHiFaOc4RApF10MQwkRxPrQCM9XSLzErm83MNfzkeKmRjWkIcRlrjmCFQhXyjQB0WoZPtEKZ52yaDHGk3f1kPqo8WpT21g377giYrxONuad9JyuXWL4HvFm7dHtIp2OgMw.webp" width="140px" /> <br><br> 👶🏻 신동운 <br>(Back-End, Infra) </a> <br></td>
+            <img src="https://i.namu.wiki/i/Ee89R5AFVQgi80iw3W4QAHiFaOc4RApF10MQwkRxPrQCM9XSLzErm83MNfzkeKmRjWkIcRlrjmCFQhXyjQB0WoZPtEKZ52yaDHGk3f1kPqo8WpT21g377giYrxONuad9JyuXWL4HvFm7dHtIp2OgMw.webp" width="140px" /> <br><br> 👶🏻 신동운 <br>(Back-End Leader, Infra) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/dwshin-dev">
             <img src="https://i.namu.wiki/i/2z_IXelZknQx9-cyd9wu3CPdomqg4y2TMlCuzVifxnGgAXyCCVt9jSF8MerHY0zHXxI0Mro7Fqf_LvOmekTuzA6OpQIZZaCHK7fTnKJ_lmmL5W069TM5fiFOWc6HOpqhvpi5AyqhJen2hhTTtqQ9Jw.webp" width="140px" /> <br><br> 👶🏻 나유빈 <br>(AI, Data) </a> <br></td>
     </tr>
     <tr>
          <td>
-            - 프로젝트 총괄
-            <br/>
             - 픽셀 디자인 구현
-            <br/>
-            - GA 연동 및 데이터 분석
             <br/>
             - 사용자 경험 최적화
          </td>
@@ -56,9 +52,9 @@
             <br/>
             - 와인 셀러 기능 개발
             <br/>
-            - 검색 기능 구현
-            <br/>
             - 와인 상세 페이지 개발
+                      <br/>
+            - GA 연동 및 데이터 분석
            <br/>
            - 백엔드 api 연결
          </td>
