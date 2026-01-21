@@ -35,7 +35,7 @@
         <td height="140px" align="center"> <a href="https://github.com/kwo9827">
             <img src="https://i.namu.wiki/i/ifkzEGZR51bAJbRIvHEPo_WTv8LXzabItIijFjrdwVwYjb6Bexu-5nT5KvqU5mzrMOSnv7CsnHZkr8L24PB2lg.webp" width="140px" /> <br><br> 👶🏻 오승열 <br>(Front-End Leader) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/[github-id]">
-            <img src="https://i.namu.wiki/i/waw6CdkdFsocIT-LB9T4DqEhht9AtKx9ypKZK_uVJFwDmknxzMRf1HjXtjwzsJnicTXyHtD-9Qz2VwIyk10WDzDbpS9SpP_ZShRfnlHfSXQBNYs_qwvgtOWoC11gW0w3QIHQlLWVkVf448J54WwLiw.webp" width="140px" /> <br><br> 👶🏻 류현 <br>(Front-End) </a> <br></td>
+            <img src="https://i.namu.wiki/i/wsaw6CdkdFsocIT-LB9T4DqEhht9AtKx9ypKZK_uVJFwDmknxzMRf1HjXtjwzsJnicTXyHtD-9Qz2VwIyk10WDzDbpS9SpP_ZShRfnlHfSXQBNYs_qwvgtOWoC11gW0w3QIHQlLWVkVf448J54WwLiw.webp" width="140px" /> <br><br> 👶🏻 류현 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/[github-id]">
             <img src="https://i.namu.wiki/i/Ee89R5AFVQgi80iw3W4QAHiFaOc4RApF10MQwkRxPrQCM9XSLzErm83MNfzkeKmRjWkIcRlrjmCFQhXyjQB0WoZPtEKZ52yaDHGk3f1kPqo8WpT21g377giYrxONuad9JyuXWL4HvFm7dHtIp2OgMw.webp" width="140px" /> <br><br> 👶🏻 신동운 <br>(Back-End Leader, Infra) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/dwshin-dev">
